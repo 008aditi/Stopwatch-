@@ -4,8 +4,7 @@ It is consists of timer which counts down the time at each second.
 It has three buttons with below features:
 
 1)Start timer: 
-  -> On click of start button, start the timer
-  -> If timer is 0 start from beginning else start from wherever last stopped
+  -> On click of start button, start the timer. If timer is 0 start from beginning else start from wherever last stopped
   
 2)Stop timer
   -> Stop timer once clicked on the stop button
